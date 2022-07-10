@@ -1,6 +1,6 @@
 """
-Password Generator with GUI using Tkinter library
-Created by requiem59
+    Password Generator with GUI using Tkinter library
+    Created by requiem59 (Christian Alexis Mejia Mondragón)
 
 """
 
